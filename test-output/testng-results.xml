@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5913" started-at="2022-01-09T19:07:29 IST" finished-at="2022-01-09T19:07:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5913" started-at="2022-01-09T19:07:29 IST" finished-at="2022-01-09T19:07:35 IST">
+      <class name="Rest1.PutRequest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Rest1.PutRequest@76329302]" name="setup" is-config="true" duration-ms="673" started-at="2022-01-09T19:07:29 IST" finished-at="2022-01-09T19:07:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="PutRequest()[pri:0, instance:Rest1.PutRequest@76329302]" name="PutRequest" duration-ms="5145" started-at="2022-01-09T19:07:30 IST" finished-at="2022-01-09T19:07:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequest -->
+      </class> <!-- Rest1.PutRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
